@@ -1,7 +1,6 @@
 # Holberton School - Introduction à ChatGPT
 
-![Image Représentant ChatGPT](img_chat_gpt.png)
-*Remplacez URL_DE_VOTRE_IMAGE_ICI par le lien direct vers l'image que vous souhaitez utiliser.*
+![Image Représentant ChatGPT](/Users/vivien/holberton school/holbertonschool-chatgpt-introduction/img_chat_gpt.png)
 
 ## Description du Projet
 

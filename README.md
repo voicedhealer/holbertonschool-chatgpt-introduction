@@ -45,5 +45,3 @@ Pour inclure une image représentant ChatGPT :
 *   Ingénierie de Prompts (Prompt Engineering)
 
 ---
-
-N'hésitez pas à adapter et à enrichir ce modèle en fonction du contenu spécifique et des objectifs détaillés de votre projet Holberton School.

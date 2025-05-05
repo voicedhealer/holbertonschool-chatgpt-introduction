@@ -1,6 +1,6 @@
 # Holberton School - Introduction à ChatGPT
 
-![Image Représentant ChatGPT](/Users/vivien/holberton school/holbertonschool-chatgpt-introduction/img_chat_gpt.png)
+![Image Représentant ChatGPT](https://github.com/voicedhealer/holbertonschool-chatgpt-introduction/blob/main/img_chat_gpt.png)
 
 ## Description du Projet
 
